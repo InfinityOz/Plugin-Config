@@ -1,24 +1,24 @@
 lastAccountName: x3n0s_
 timestamps:
-  login: 1509856428246
-  logout: 1509856386101
-  lastteleport: 1509859295058
+  login: 1509950455794
+  logout: 1509957847561
+  lastteleport: 1509957827731
 ipAddress: 103.68.190.250
-afk: true
+afk: false
 logoutlocation:
   world: world
-  x: 11.46358821032745
+  x: 10.5
   y: 63.0
-  z: 272.2115339469197
-  yaw: 196.79584
-  pitch: 6.449944
+  z: 265.5
+  yaw: -93.15063
+  pitch: 24.600222
 lastlocation:
   world: world
-  x: -375.8899721588645
-  y: 48.0
-  z: -42.1537937789823
-  yaw: -198.9015
-  pitch: 40.2001
+  x: 751.9929357880995
+  y: 39.0
+  z: 672.3492599420505
+  yaw: -227.5747
+  pitch: 60.150238
 homes:
   home:
     world: world
@@ -27,3 +27,6 @@ homes:
     z: 265.5723683929838
     yaw: -91.65062
     pitch: 20.250221
+money: '23787.38399999999995094'
+godmode: false
+nickname: x3n0s

@@ -1,0 +1,13 @@
+Items:
+  '1':
+    Price: 500
+    Seller: x3n0s_
+    Time-Till-Expire: 1510062102197
+    Full-Time: 1510753302197
+    StoreID: 566166
+    Biddable: false
+    TopBidder: None
+    Item:
+      ==: org.bukkit.inventory.ItemStack
+      type: STONE_SWORD
+OutOfTime/Cancelled: {}

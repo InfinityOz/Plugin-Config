@@ -1,0 +1,19 @@
+valid_worlds:
+  - world
+radius:
+  max_X: 1000
+  max_Z: 1000
+price:
+  enabled: false
+  price: 0.0
+cooldown:
+  enabled: false
+  time: 0
+dont_spawn_here:
+  biomes:
+  - OCEAN
+  - RIVER
+  - DEEP_OCEAN
+  blocks:
+  - CACTUS
+anticheat: false

@@ -1,0 +1,38 @@
+Settings:
+  DamageProtections:
+  - PROJECTILE
+  - POISON
+  - MELTING
+  - MAGIC
+  - CUSTOM
+  - DROWNING
+  - FIRE
+  - FIRE_TICK
+  - ENTITY_ATTACK
+  - BLOCK_EXPLOSION
+  - ENTITY_EXPLOSION
+  - LIGHTNING
+  - LAVA
+  Worlds:
+  - world
+  - DIM-7
+  - DIM-100
+  - DIM-34
+  - DIM-37
+  - DIM-38
+  - DIM-39
+  - DIM-19
+  - DIM-42
+  - DIM-112
+  - DIM-1
+  - DIM1
+  - DIM-6
+  - world2
+  ServerName: Your Server
+  Debug: false
+  DownloadLanguageFile: true
+  InvulnerableHorses: true
+  HorseTeleportationEnabled: false
+  AllowChestsOnAllHorses: false
+  DisplayUpdateNotifications: true
+  MetricsOptOut: false

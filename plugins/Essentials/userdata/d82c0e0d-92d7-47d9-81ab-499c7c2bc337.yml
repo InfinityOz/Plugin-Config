@@ -1,0 +1,22 @@
+lastAccountName: fricky24
+timestamps:
+  login: 1509961388619
+  logout: 1509961627119
+  lastteleport: 1509895512749
+ipAddress: 118.211.8.236
+logoutlocation:
+  world: world
+  x: -769.896951165126
+  y: 83.0
+  z: 728.0204157470639
+  yaw: 307.33716
+  pitch: 23.543673
+lastlocation:
+  world: world
+  x: -286.30000001192093
+  y: 29.0
+  z: 695.1277954763239
+  yaw: 251.42969
+  pitch: 18.659967
+money: '377442.0'
+afk: false

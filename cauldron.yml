@@ -107,31 +107,31 @@ world-settings:
     allow-tnt-punishment: true
     infinite-water-source: true
     entity-despawn-immediate: false
-    worldgen-Natura-BaseTreeWorldgen: true
-    worldgen-ImmersiveEngineering-IEWorldGen: true
     worldgen-rftools-GenericWorldGenerator: true
+    worldgen-MrTJPCoreMod-SimpleGenHandler$: true
+    worldgen-ExtraBees-ModuleGeneration: true
     worldgen-denseores-WorldGenOres: true
+    worldgen-runicdungeons-TerribleDungeon: true
+    worldgen-TConstruct-TBaseWorldGenerator: true
+    worldgen-chisel-GeneratorChisel: true
     worldgen-IC2-IC2: true
     worldgen-Forestry-WorldGenerator: true
-    worldgen-runicdungeons-TerribleDungeon: true
-    worldgen-ExtraUtilities-WorldGenEnderLillies: true
-    worldgen-appliedenergistics2-MeteoriteWorldGen: true
-    worldgen-MrTJPCoreMod-SimpleGenHandler$: true
-    worldgen-Mystcraft-MystWorldGenerator: true
-    worldgen-harvestcraft-PamBeeGenerator: true
-    worldgen-BigReactors-BRWorldGenerator: true
-    worldgen-TConstruct-TBaseWorldGenerator: true
-    worldgen-Natura-BaseCropWorldgen: true
-    worldgen-Natura-BaseCloudWorldgen: true
-    worldgen-CoFHCore-WorldHandler: true
     worldgen-TConstruct-SlimeIslandGen: true
-    worldgen-harvestcraft-PamGardenGenerator: true
-    worldgen-witchery-WitcheryWorldGenerator: true
-    worldgen-ExtraBees-ModuleGeneration: true
-    worldgen-chisel-GeneratorChisel: true
-    worldgen-harvestcraft-PamTreeGenerator: true
+    worldgen-appliedenergistics2-MeteoriteWorldGen: true
+    worldgen-Natura-BaseTreeWorldgen: true
+    worldgen-Mystcraft-MystWorldGenerator: true
+    worldgen-ExtraUtilities-WorldGenEnderLillies: true
+    worldgen-Natura-BaseCropWorldgen: true
     worldgen-DraconicEvolution-DraconicWorldGenerator: true
     worldgen-Thaumcraft-ThaumcraftWorldGenerator: true
+    worldgen-Natura-BaseCloudWorldgen: true
+    worldgen-ImmersiveEngineering-IEWorldGen: true
+    worldgen-CoFHCore-WorldHandler: true
+    worldgen-BigReactors-BRWorldGenerator: true
+    worldgen-harvestcraft-PamGardenGenerator: true
+    worldgen-harvestcraft-PamTreeGenerator: true
+    worldgen-harvestcraft-PamBeeGenerator: true
+    worldgen-witchery-WitcheryWorldGenerator: true
   max-players-visible: -1
   use-real-names: false
 protection:

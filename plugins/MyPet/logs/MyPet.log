@@ -1,0 +1,167 @@
+11-05-2017 17:27 [WARNING] [MyPet] Error occured while creating the de.Keyle.MyPet.api.util.service.types.EntityConverterService service.
+11-05-2017 17:27 [INFO] [MyPet] Enabling MyPet v2.3.2
+11-05-2017 17:27 [INFO] [MyPet] No Update available.
+11-05-2017 17:27 [INFO] [MyPet] Minigames (1.7.0) (au.com.mineauz.minigames.Minigames) hook activated.
+11-05-2017 17:27 [INFO] [MyPet] ProtocolLib (3.7.0) hook activated.
+11-05-2017 17:27 [INFO] [MyPet] Vault (1.4.1-b436) (Economy: Essentials Economy) hook activated.
+11-05-2017 17:27 [WARNING] [MyPet] Error while registering de.Keyle.MyPet.compat.v1_7_R4.entity.types.EntityMyCaveSpider
+11-05-2017 17:27 [WARNING] [MyPet] Error while registering de.Keyle.MyPet.compat.v1_7_R4.entity.types.EntityMyBat
+11-05-2017 17:27 [WARNING] [MyPet] Error while registering de.Keyle.MyPet.compat.v1_7_R4.entity.types.EntityMySilverfish
+11-05-2017 17:27 [WARNING] [MyPet] Error while registering de.Keyle.MyPet.compat.v1_7_R4.entity.types.EntityMySquid
+11-05-2017 17:27 [WARNING] [MyPet] Error while registering de.Keyle.MyPet.compat.v1_7_R4.entity.types.EntityMyVillager
+11-05-2017 17:27 [WARNING] [MyPet] Error while registering de.Keyle.MyPet.compat.v1_7_R4.entity.types.EntityMyZombie
+11-05-2017 17:27 [WARNING] [MyPet] Error while registering de.Keyle.MyPet.compat.v1_7_R4.entity.types.EntityMyCow
+11-05-2017 17:27 [WARNING] [MyPet] Error while registering de.Keyle.MyPet.compat.v1_7_R4.entity.types.EntityMyWitch
+11-05-2017 17:27 [WARNING] [MyPet] Error while registering de.Keyle.MyPet.compat.v1_7_R4.entity.types.EntityMyGhast
+11-05-2017 17:27 [WARNING] [MyPet] Error while registering de.Keyle.MyPet.compat.v1_7_R4.entity.types.EntityMyPigZombie
+11-05-2017 17:27 [WARNING] [MyPet] Error while registering de.Keyle.MyPet.compat.v1_7_R4.entity.types.EntityMySkeleton
+11-05-2017 17:27 [WARNING] [MyPet] Error while registering de.Keyle.MyPet.compat.v1_7_R4.entity.types.EntityMyHorse
+11-05-2017 17:27 [WARNING] [MyPet] Error while registering de.Keyle.MyPet.compat.v1_7_R4.entity.types.EntityMyMagmaCube
+11-05-2017 17:27 [WARNING] [MyPet] Error while registering de.Keyle.MyPet.compat.v1_7_R4.entity.types.EntityMyChicken
+11-05-2017 17:27 [WARNING] [MyPet] Error while registering de.Keyle.MyPet.compat.v1_7_R4.entity.types.EntityMyCreeper
+11-05-2017 17:27 [WARNING] [MyPet] Error while registering de.Keyle.MyPet.compat.v1_7_R4.entity.types.EntityMySnowman
+11-05-2017 17:27 [WARNING] [MyPet] Error while registering de.Keyle.MyPet.compat.v1_7_R4.entity.types.EntityMySheep
+11-05-2017 17:27 [WARNING] [MyPet] Error while registering de.Keyle.MyPet.compat.v1_7_R4.entity.types.EntityMyMooshroom
+11-05-2017 17:27 [WARNING] [MyPet] Error while registering de.Keyle.MyPet.compat.v1_7_R4.entity.types.EntityMySlime
+11-05-2017 17:27 [WARNING] [MyPet] Error while registering de.Keyle.MyPet.compat.v1_7_R4.entity.types.EntityMySpider
+11-05-2017 17:27 [WARNING] [MyPet] Error while registering de.Keyle.MyPet.compat.v1_7_R4.entity.types.EntityMyWither
+11-05-2017 17:27 [WARNING] [MyPet] Error while registering de.Keyle.MyPet.compat.v1_7_R4.entity.types.EntityMyBlaze
+11-05-2017 17:27 [WARNING] [MyPet] Error while registering de.Keyle.MyPet.compat.v1_7_R4.entity.types.EntityMyEnderDragon
+11-05-2017 17:27 [WARNING] [MyPet] Error while registering de.Keyle.MyPet.compat.v1_7_R4.entity.types.EntityMyOcelot
+11-05-2017 17:27 [WARNING] [MyPet] Error while registering de.Keyle.MyPet.compat.v1_7_R4.entity.types.EntityMyPig
+11-05-2017 17:27 [WARNING] [MyPet] Error while registering de.Keyle.MyPet.compat.v1_7_R4.entity.types.EntityMyIronGolem
+11-05-2017 17:27 [WARNING] [MyPet] Error while registering de.Keyle.MyPet.compat.v1_7_R4.entity.types.EntityMyEnderman
+11-05-2017 17:27 [WARNING] [MyPet] Error while registering de.Keyle.MyPet.compat.v1_7_R4.entity.types.EntityMyWolf
+11-05-2017 17:27 [WARNING] [MyPet] Error while registering de.Keyle.MyPet.compat.v1_7_R4.entity.types.EntityMyGiant
+11-05-2017 17:27 [INFO] [MyPet] Compat mode for v1_7_R4 loaded.
+11-05-2017 17:27 [INFO] [MyPet] Default skilltree file created (default.st).
+11-05-2017 17:27 [INFO] [MyPet] No groups found. Everything will be in 'default' group.
+11-05-2017 17:27 [INFO] [MyPet] --- Loading WorldGroups ---------------------------
+11-05-2017 17:27 [INFO] [MyPet] added world to 'default' group.
+11-05-2017 17:27 [INFO] [MyPet] added DIM-7 to 'default' group.
+11-05-2017 17:27 [INFO] [MyPet] added DIM-100 to 'default' group.
+11-05-2017 17:27 [INFO] [MyPet] added DIM-34 to 'default' group.
+11-05-2017 17:27 [INFO] [MyPet] added DIM-37 to 'default' group.
+11-05-2017 17:27 [INFO] [MyPet] added DIM-38 to 'default' group.
+11-05-2017 17:27 [INFO] [MyPet] added DIM-39 to 'default' group.
+11-05-2017 17:27 [INFO] [MyPet] added DIM-19 to 'default' group.
+11-05-2017 17:27 [INFO] [MyPet] added DIM-42 to 'default' group.
+11-05-2017 17:27 [INFO] [MyPet] added DIM-112 to 'default' group.
+11-05-2017 17:27 [INFO] [MyPet] added DIM-1 to 'default' group.
+11-05-2017 17:27 [INFO] [MyPet] added DIM1 to 'default' group.
+11-05-2017 17:27 [INFO] [MyPet] added DIM-6 to 'default' group.
+11-05-2017 17:27 [INFO] [MyPet] added world2 to 'default' group.
+11-05-2017 17:27 [INFO] [MyPet] -------------------------------------------------
+11-05-2017 17:27 [INFO] [MyPet] version 2.3.2-b1184 ENABLED
+11-05-2017 18:16 [INFO] [MyPet] Disabling MyPet v2.3.2
+11-05-2017 18:16 [WARNING] [MyPet] Error while unregistering MyPet entities
+11-05-2017 18:18 [WARNING] [MyPet] Error occured while creating the de.Keyle.MyPet.api.util.service.types.EntityConverterService service.
+11-05-2017 18:19 [INFO] [MyPet] Enabling MyPet v2.3.2
+11-05-2017 18:19 [INFO] [MyPet] No Update available.
+11-05-2017 18:19 [INFO] [MyPet] Minigames (1.7.0) (au.com.mineauz.minigames.Minigames) hook activated.
+11-05-2017 18:19 [INFO] [MyPet] ProtocolLib (3.7.0) hook activated.
+11-05-2017 18:19 [INFO] [MyPet] Vault (1.4.1-b436) (Economy: Essentials Economy) hook activated.
+11-05-2017 18:19 [WARNING] [MyPet] Error while registering de.Keyle.MyPet.compat.v1_7_R4.entity.types.EntityMyBlaze
+11-05-2017 18:19 [WARNING] [MyPet] Error while registering de.Keyle.MyPet.compat.v1_7_R4.entity.types.EntityMySheep
+11-05-2017 18:19 [WARNING] [MyPet] Error while registering de.Keyle.MyPet.compat.v1_7_R4.entity.types.EntityMyEnderDragon
+11-05-2017 18:19 [WARNING] [MyPet] Error while registering de.Keyle.MyPet.compat.v1_7_R4.entity.types.EntityMySnowman
+11-05-2017 18:19 [WARNING] [MyPet] Error while registering de.Keyle.MyPet.compat.v1_7_R4.entity.types.EntityMyCow
+11-05-2017 18:19 [WARNING] [MyPet] Error while registering de.Keyle.MyPet.compat.v1_7_R4.entity.types.EntityMyWither
+11-05-2017 18:19 [WARNING] [MyPet] Error while registering de.Keyle.MyPet.compat.v1_7_R4.entity.types.EntityMyEnderman
+11-05-2017 18:19 [WARNING] [MyPet] Error while registering de.Keyle.MyPet.compat.v1_7_R4.entity.types.EntityMyVillager
+11-05-2017 18:19 [WARNING] [MyPet] Error while registering de.Keyle.MyPet.compat.v1_7_R4.entity.types.EntityMyIronGolem
+11-05-2017 18:19 [WARNING] [MyPet] Error while registering de.Keyle.MyPet.compat.v1_7_R4.entity.types.EntityMyPig
+11-05-2017 18:19 [WARNING] [MyPet] Error while registering de.Keyle.MyPet.compat.v1_7_R4.entity.types.EntityMyChicken
+11-05-2017 18:19 [WARNING] [MyPet] Error while registering de.Keyle.MyPet.compat.v1_7_R4.entity.types.EntityMyBat
+11-05-2017 18:19 [WARNING] [MyPet] Error while registering de.Keyle.MyPet.compat.v1_7_R4.entity.types.EntityMyWitch
+11-05-2017 18:19 [WARNING] [MyPet] Error while registering de.Keyle.MyPet.compat.v1_7_R4.entity.types.EntityMyHorse
+11-05-2017 18:19 [WARNING] [MyPet] Error while registering de.Keyle.MyPet.compat.v1_7_R4.entity.types.EntityMySquid
+11-05-2017 18:19 [WARNING] [MyPet] Error while registering de.Keyle.MyPet.compat.v1_7_R4.entity.types.EntityMyOcelot
+11-05-2017 18:19 [WARNING] [MyPet] Error while registering de.Keyle.MyPet.compat.v1_7_R4.entity.types.EntityMyCaveSpider
+11-05-2017 18:19 [WARNING] [MyPet] Error while registering de.Keyle.MyPet.compat.v1_7_R4.entity.types.EntityMyGiant
+11-05-2017 18:19 [WARNING] [MyPet] Error while registering de.Keyle.MyPet.compat.v1_7_R4.entity.types.EntityMySpider
+11-05-2017 18:19 [WARNING] [MyPet] Error while registering de.Keyle.MyPet.compat.v1_7_R4.entity.types.EntityMyGhast
+11-05-2017 18:19 [WARNING] [MyPet] Error while registering de.Keyle.MyPet.compat.v1_7_R4.entity.types.EntityMyMooshroom
+11-05-2017 18:19 [WARNING] [MyPet] Error while registering de.Keyle.MyPet.compat.v1_7_R4.entity.types.EntityMyCreeper
+11-05-2017 18:19 [WARNING] [MyPet] Error while registering de.Keyle.MyPet.compat.v1_7_R4.entity.types.EntityMyZombie
+11-05-2017 18:19 [WARNING] [MyPet] Error while registering de.Keyle.MyPet.compat.v1_7_R4.entity.types.EntityMySilverfish
+11-05-2017 18:19 [WARNING] [MyPet] Error while registering de.Keyle.MyPet.compat.v1_7_R4.entity.types.EntityMySlime
+11-05-2017 18:19 [WARNING] [MyPet] Error while registering de.Keyle.MyPet.compat.v1_7_R4.entity.types.EntityMyMagmaCube
+11-05-2017 18:19 [WARNING] [MyPet] Error while registering de.Keyle.MyPet.compat.v1_7_R4.entity.types.EntityMyPigZombie
+11-05-2017 18:19 [WARNING] [MyPet] Error while registering de.Keyle.MyPet.compat.v1_7_R4.entity.types.EntityMySkeleton
+11-05-2017 18:19 [WARNING] [MyPet] Error while registering de.Keyle.MyPet.compat.v1_7_R4.entity.types.EntityMyWolf
+11-05-2017 18:19 [INFO] [MyPet] Compat mode for v1_7_R4 loaded.
+11-05-2017 18:19 [INFO] [MyPet] --- Loading WorldGroups ---------------------------
+11-05-2017 18:19 [INFO] [MyPet]    added 'world' to 'default'
+11-05-2017 18:19 [INFO] [MyPet]    added 'DIM-7' to 'default'
+11-05-2017 18:19 [INFO] [MyPet]    added 'DIM-100' to 'default'
+11-05-2017 18:19 [INFO] [MyPet]    added 'DIM-34' to 'default'
+11-05-2017 18:19 [INFO] [MyPet]    added 'DIM-37' to 'default'
+11-05-2017 18:19 [INFO] [MyPet]    added 'DIM-38' to 'default'
+11-05-2017 18:19 [INFO] [MyPet]    added 'DIM-39' to 'default'
+11-05-2017 18:19 [INFO] [MyPet]    added 'DIM-19' to 'default'
+11-05-2017 18:19 [INFO] [MyPet]    added 'DIM-42' to 'default'
+11-05-2017 18:19 [INFO] [MyPet]    added 'DIM-112' to 'default'
+11-05-2017 18:19 [INFO] [MyPet]    added 'DIM-1' to 'default'
+11-05-2017 18:19 [INFO] [MyPet]    added 'DIM1' to 'default'
+11-05-2017 18:19 [INFO] [MyPet]    added 'DIM-6' to 'default'
+11-05-2017 18:19 [INFO] [MyPet]    added 'world2' to 'default'
+11-05-2017 18:19 [INFO] [MyPet] -------------------------------------------------
+11-05-2017 18:19 [INFO] [MyPet] version 2.3.2-b1184 ENABLED
+11-06-2017 06:32 [INFO] [MyPet] Disabling MyPet v2.3.2
+11-06-2017 06:32 [WARNING] [MyPet] Error while unregistering MyPet entities
+11-06-2017 06:35 [WARNING] [MyPet] Error occured while creating the de.Keyle.MyPet.api.util.service.types.EntityConverterService service.
+11-06-2017 06:35 [INFO] [MyPet] Enabling MyPet v2.3.2
+11-06-2017 06:35 [INFO] [MyPet] No Update available.
+11-06-2017 06:35 [INFO] [MyPet] Minigames (1.7.0) (au.com.mineauz.minigames.Minigames) hook activated.
+11-06-2017 06:35 [INFO] [MyPet] ProtocolLib (3.7.0) hook activated.
+11-06-2017 06:35 [INFO] [MyPet] Vault (1.4.1-b436) (Economy: Essentials Economy) hook activated.
+11-06-2017 06:35 [WARNING] [MyPet] Error while registering de.Keyle.MyPet.compat.v1_7_R4.entity.types.EntityMyWither
+11-06-2017 06:35 [WARNING] [MyPet] Error while registering de.Keyle.MyPet.compat.v1_7_R4.entity.types.EntityMyOcelot
+11-06-2017 06:35 [WARNING] [MyPet] Error while registering de.Keyle.MyPet.compat.v1_7_R4.entity.types.EntityMyIronGolem
+11-06-2017 06:35 [WARNING] [MyPet] Error while registering de.Keyle.MyPet.compat.v1_7_R4.entity.types.EntityMyWolf
+11-06-2017 06:35 [WARNING] [MyPet] Error while registering de.Keyle.MyPet.compat.v1_7_R4.entity.types.EntityMyHorse
+11-06-2017 06:35 [WARNING] [MyPet] Error while registering de.Keyle.MyPet.compat.v1_7_R4.entity.types.EntityMyChicken
+11-06-2017 06:35 [WARNING] [MyPet] Error while registering de.Keyle.MyPet.compat.v1_7_R4.entity.types.EntityMySquid
+11-06-2017 06:35 [WARNING] [MyPet] Error while registering de.Keyle.MyPet.compat.v1_7_R4.entity.types.EntityMyMagmaCube
+11-06-2017 06:35 [WARNING] [MyPet] Error while registering de.Keyle.MyPet.compat.v1_7_R4.entity.types.EntityMyBlaze
+11-06-2017 06:35 [WARNING] [MyPet] Error while registering de.Keyle.MyPet.compat.v1_7_R4.entity.types.EntityMyCow
+11-06-2017 06:35 [WARNING] [MyPet] Error while registering de.Keyle.MyPet.compat.v1_7_R4.entity.types.EntityMyPigZombie
+11-06-2017 06:35 [WARNING] [MyPet] Error while registering de.Keyle.MyPet.compat.v1_7_R4.entity.types.EntityMyEnderDragon
+11-06-2017 06:35 [WARNING] [MyPet] Error while registering de.Keyle.MyPet.compat.v1_7_R4.entity.types.EntityMyEnderman
+11-06-2017 06:35 [WARNING] [MyPet] Error while registering de.Keyle.MyPet.compat.v1_7_R4.entity.types.EntityMyZombie
+11-06-2017 06:35 [WARNING] [MyPet] Error while registering de.Keyle.MyPet.compat.v1_7_R4.entity.types.EntityMyWitch
+11-06-2017 06:35 [WARNING] [MyPet] Error while registering de.Keyle.MyPet.compat.v1_7_R4.entity.types.EntityMyVillager
+11-06-2017 06:35 [WARNING] [MyPet] Error while registering de.Keyle.MyPet.compat.v1_7_R4.entity.types.EntityMySnowman
+11-06-2017 06:35 [WARNING] [MyPet] Error while registering de.Keyle.MyPet.compat.v1_7_R4.entity.types.EntityMyCaveSpider
+11-06-2017 06:35 [WARNING] [MyPet] Error while registering de.Keyle.MyPet.compat.v1_7_R4.entity.types.EntityMyMooshroom
+11-06-2017 06:35 [WARNING] [MyPet] Error while registering de.Keyle.MyPet.compat.v1_7_R4.entity.types.EntityMyCreeper
+11-06-2017 06:35 [WARNING] [MyPet] Error while registering de.Keyle.MyPet.compat.v1_7_R4.entity.types.EntityMySlime
+11-06-2017 06:35 [WARNING] [MyPet] Error while registering de.Keyle.MyPet.compat.v1_7_R4.entity.types.EntityMyGiant
+11-06-2017 06:35 [WARNING] [MyPet] Error while registering de.Keyle.MyPet.compat.v1_7_R4.entity.types.EntityMySilverfish
+11-06-2017 06:35 [WARNING] [MyPet] Error while registering de.Keyle.MyPet.compat.v1_7_R4.entity.types.EntityMySkeleton
+11-06-2017 06:35 [WARNING] [MyPet] Error while registering de.Keyle.MyPet.compat.v1_7_R4.entity.types.EntityMySpider
+11-06-2017 06:35 [WARNING] [MyPet] Error while registering de.Keyle.MyPet.compat.v1_7_R4.entity.types.EntityMyGhast
+11-06-2017 06:35 [WARNING] [MyPet] Error while registering de.Keyle.MyPet.compat.v1_7_R4.entity.types.EntityMyBat
+11-06-2017 06:35 [WARNING] [MyPet] Error while registering de.Keyle.MyPet.compat.v1_7_R4.entity.types.EntityMySheep
+11-06-2017 06:35 [WARNING] [MyPet] Error while registering de.Keyle.MyPet.compat.v1_7_R4.entity.types.EntityMyPig
+11-06-2017 06:35 [INFO] [MyPet] Compat mode for v1_7_R4 loaded.
+11-06-2017 06:35 [INFO] [MyPet] --- Loading WorldGroups ---------------------------
+11-06-2017 06:35 [INFO] [MyPet]    added 'world' to 'default'
+11-06-2017 06:35 [INFO] [MyPet]    added 'DIM-7' to 'default'
+11-06-2017 06:35 [INFO] [MyPet]    added 'DIM-100' to 'default'
+11-06-2017 06:35 [INFO] [MyPet]    added 'DIM-34' to 'default'
+11-06-2017 06:35 [INFO] [MyPet]    added 'DIM-37' to 'default'
+11-06-2017 06:35 [INFO] [MyPet]    added 'DIM-38' to 'default'
+11-06-2017 06:35 [INFO] [MyPet]    added 'DIM-39' to 'default'
+11-06-2017 06:35 [INFO] [MyPet]    added 'DIM-19' to 'default'
+11-06-2017 06:35 [INFO] [MyPet]    added 'DIM-42' to 'default'
+11-06-2017 06:35 [INFO] [MyPet]    added 'DIM-112' to 'default'
+11-06-2017 06:35 [INFO] [MyPet]    added 'DIM-1' to 'default'
+11-06-2017 06:35 [INFO] [MyPet]    added 'DIM1' to 'default'
+11-06-2017 06:35 [INFO] [MyPet]    added 'DIM-6' to 'default'
+11-06-2017 06:35 [INFO] [MyPet]    added 'world2' to 'default'
+11-06-2017 06:35 [INFO] [MyPet] -------------------------------------------------
+11-06-2017 06:35 [INFO] [MyPet] version 2.3.2-b1184 ENABLED
+11-06-2017 10:15 [INFO] [MyPet] Disabling MyPet v2.3.2
+11-06-2017 10:15 [WARNING] [MyPet] Error while unregistering MyPet entities

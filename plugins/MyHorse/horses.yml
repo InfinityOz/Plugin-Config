@@ -1,0 +1,60 @@
+5b74e2aa-ab99-b36e-058a-a19bf6b419ba:
+  Name: Artic
+  Color: WHITE
+  Variant: HORSE
+  Style: WHITEFIELD
+  MaxHealth: 23.0
+  JumpStrength: 0.7363615045022555
+  BirthDate: 17:36 05-11-2017
+  Locked: true
+  Owner: fricky24
+  LastSelection:
+    X: -785
+    Y: 79
+    Z: 729
+    World: world
+c07a36ef-5bfd-52f5-78e7-f2d262c369c1:
+  Name: Shadow
+  Color: BLACK
+  Variant: HORSE
+  Style: NONE
+  MaxHealth: 18.0
+  JumpStrength: 0.7208307069114328
+  BirthDate: 17:39 05-11-2017
+  Locked: true
+  Owner: fricky24
+  LastSelection:
+    X: -789
+    Y: 82
+    Z: 757
+    World: world
+12b7d15b-0743-3818-b68e-0c450a0a8965:
+  Name: Snow
+  Color: WHITE
+  Variant: HORSE
+  Style: NONE
+  MaxHealth: 29.0
+  JumpStrength: 0.541357695402938
+  BirthDate: 17:41 05-11-2017
+  Locked: true
+  Owner: fricky24
+  LastSelection:
+    X: -794
+    Y: 79
+    Z: 733
+    World: world
+f827f037-c661-8b6e-ce00-29bfc91e2fbc:
+  Name: Star
+  Color: BLACK
+  Variant: HORSE
+  Style: WHITE_DOTS
+  MaxHealth: 22.0
+  JumpStrength: 0.7512609052051005
+  BirthDate: 09:36 06-11-2017
+  Locked: true
+  Owner: fricky24
+  LastSelection:
+    X: -795
+    Y: 79
+    Z: 731
+    World: world
